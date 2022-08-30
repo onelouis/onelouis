@@ -6,6 +6,8 @@ Ola, Prazer meu nome é Luis-Filipe
 🧑🏿‍💻 Sou estudante de Ciencias da Computação, tenho interesse de front e back end
 
 📚 Estudando React junto com javascript
+ 
+ luis.filipe14032012@gmail.com
 
 
 
